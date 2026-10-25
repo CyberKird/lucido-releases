@@ -1,5 +1,6 @@
 # lucido-releases
 Lucido for Windows: installers and updates
+r<a href="https://ko-fi.com/joltarise"><img src="https://raw.githubusercontent.com/CyberKird/.github/main/assets/ko-fi-button.svg" alt="Support me on Ko-fi" width="200"></a>
 
 ## License
 
